@@ -1,6 +1,8 @@
 # windows-genuine-keys
 This repository contains Windows activation keys and activators.
+
 Every activator has been tested on real hardware and scanned by Avast Premium Security antivirus.
+
 Password for all the archyves: windows-genuine-keys.ongithub
 
 ## Windows 95 RTM
